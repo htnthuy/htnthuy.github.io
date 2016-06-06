@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Ho Tran Nhat Thuy",
+    "label": "",
+    "picture": "",
+    "email": "nhatthuyht@gmail.com",
+    "phone": "01694701868",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "54 Chien Luoc St, Binh Tan Ditrict",
+      "postalCode": "",
+      "city": "Ho Chi Minh City",
+      "countryCode": "Viet Nam",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "University of Information Technology",
+      "position": "Lecturer",
+      "website": "",
+      "startDate": "2009-09-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Research projects on data analysis, data mining, and application such as recommender systems.",
+        "Lecturer of several courses such as Data structures and algorithms, Object oriented analysis and design, Data mining",
+        ""
+      ]
+    },
+    {
+      "company": "University of Science",
+      "position": "Researcher",
+      "website": "",
+      "startDate": "2013-03",
+      "endDate": "2013-09",
+      "summary": "",
+      "highlights": [
+        "Improved algorithms of digital image processing to apply for intelligent systems and computer vision",
+        "Developed ",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Science",
+      "area": "BSc. in Information Technology",
+      "studyType": "",
+      "startDate": "2005-09-01",
+      "endDate": "2009-09",
+      "gpa": "8.6/10",
+      "courses": []
+    },
+    {
+      "institution": "University of Science",
+      "area": "MSc. in Computer Science",
+      "studyType": "",
+      "startDate": "2010-10",
+      "endDate": "2012-09",
+      "gpa": "8.37/10",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top Five Graduation from Honor Program",
+      "date": "2009-09-15",
+      "awarder": "University of Science",
+      "summary": ""
+    },
+    {
+      "title": "The 2012 UIT Excellent Young Lecturer",
+      "date": "2012-12",
+      "awarder": "University of Information Technology",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Scene Text-Based Image Retrieval System",
+      "publisher": "IEEE",
+      "releaseDate": "2012-12-12",
+      "website": "",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    },
+    {
+      "name": "A Robust Approach for Text Detection and Extraction in Natural Scene Images",
+      "publisher": "University of Science",
+      "releaseDate": "2012-11-09",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research",
+      "level": "Master",
+      "keywords": [
+        "Computer Vison",
+        "Machine Learning",
+        "Data mining"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        ".NET",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Programming languages",
+      "level": "",
+      "keywords": [
+        "C++, C#, Java"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
